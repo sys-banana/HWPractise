@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">notification</string>
+    <integer name="high_score">100</integer>
+</resources>
